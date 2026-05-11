@@ -38,18 +38,3 @@ c9387cc354df845b6912d0220509740e18ad26429227e6362de5cfe09c4eb8f5
 ## 从零实现
 
 查看 [PROMPT.md](PROMPT.md)，可以把它交给 Codex 或另一个工程代理，从空仓库实现同类能力。
-
-## 仓库范围
-
-本仓库只发布：
-
-- `README.md`
-- `PROMPT.md`
-- GitHub Release 中的 DMG 附件
-
-不包含：
-
-- Swift 源代码
-- 原项目 README
-- research 文档
-- 本地测试 artifacts
